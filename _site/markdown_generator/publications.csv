@@ -1,0 +1,2 @@
+pub_date,title,venue,excerpt,citation,url_slug,paper_url,slides_url,category
+2023-01-06,RADIANT: Better rPPG estimation using signal embeddings and Transformer,2023 IEEE/CVF Winter Conference on Applications of Computer Vision,,"A. K. Gupta, R. Kumar, L. Birla and P. Gupta, ""RADIANT: Better rPPG estimation using signal embeddings and Transformer,"" 2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, 2023, pp. 4965-4975, doi: 10.1109/WACV56688.2023.00495.",,https://ieeexplore.ieee.org/document/10030331,,manuscripts
