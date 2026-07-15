@@ -3,7 +3,7 @@ title: "Dynamic Wrinkling on Coarsely-Meshed Cloth"
 collection: publications
 category: conferences
 permalink: #/publication/2024-02-17-paper-title-number-4
-link: 'https://rupeshkmr.github.io/wrinkle-dynamics/
+link: 'https://rupeshkmr.github.io/wrinkle-dynamics/'
 excerpt: ''
 date: 2026-07-07
 venue: '25TH ACM SIGGRAPH / Eurographics SYMPOSIUM ON COMPUTER ANIMATION (SCA 2026)'
